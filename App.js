@@ -6,8 +6,9 @@ import { WebView } from 'react-native-webview'
 export default function App() {
   return (
     <WebView
-      style = { styles.container }
-      source={{ html: '<h1>Hello, You!</h1>' }}
+      style = {styles.container}
+      originWhitelist={['*']}
+      source={{ uri: 'https://chat.openai.com'}}
     />
   );
 }
