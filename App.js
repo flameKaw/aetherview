@@ -7,7 +7,6 @@ export default function App() {
   return (
     <WebView
       style = {styles.container}
-      originWhitelist={['*']}
       source={{ uri: 'https://chat.openai.com'}}
     />
   );
