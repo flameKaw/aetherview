@@ -1,8 +1,8 @@
 {
   "expo": {
     "name": "aetherview",
-    "slug": "Aether View - ChatGPT WebView",
-    "version": "0.1.3-alpha",
+    "slug": "aetherview",
+    "version": "0.2.1-alpha",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
