@@ -1,8 +1,8 @@
 {
   "expo": {
     "name": "aetherview",
-    "slug": "aetherview",
-    "version": "0.2.1-alpha",
+    "slug": "AetherView",
+    "version": "0.2.4-alpha",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
